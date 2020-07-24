@@ -1,0 +1,10 @@
+.kbcolumn {
+    background-color: grey;
+    margin: 10px;
+}
+
+.kbcolumn-header {
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    padding: 5px;
+}

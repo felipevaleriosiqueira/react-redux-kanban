@@ -1,0 +1,65 @@
+{
+    "columns": [
+        {
+            "id": 1,
+            "title": "Backlog",
+            "cards": [
+                {
+                    "id": 1,
+                    "title": "Levantar requisitos",
+                    "description": "Levantar requisitos para o desenvolvimento do Kanban",
+                    "project": {
+                        "id": 1,
+                        "name": "React Kanban"
+                    },
+                    "donneRatio": 80,
+                    "assignees": [
+                        {
+                            "id": 1,
+                            "name": "Felipe Valério de Siqueira",
+                            "abbr": "FVS"
+                        }
+                    ],
+                    "labels": [
+                        "label"
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "Definir arquitetura",
+                    "description": "Definir a arquitetura que será utilizada no Kanban",
+                    "project": {
+                        "id": 1,
+                        "name": "React Kanban"
+                    },
+                    "donneRatio": 50,
+                    "assignees": [
+                        {
+                            "id": 1,
+                            "name": "Felipe Valério de Siqueira",
+                            "abbr": "FVS"
+                        }
+                    ],
+                    "labels": [
+                        "label"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "To Do",
+            "cards": []
+        },
+        {
+            "id": 3,
+            "title": "Doing",
+            "cards": []
+        },
+        {
+            "id": 4,
+            "title": "Done",
+            "cards": []
+        }
+    ]
+}
